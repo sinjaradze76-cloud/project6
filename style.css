@@ -1,0 +1,144 @@
+body {
+    background-color: rgb(245, 245, 239);
+}
+.ded1 {
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+    margin-top: 5px;
+}
+.im1{
+    width: 150px;
+    height: 60px;
+    margin-top: 5px;
+}
+.d1h3 {
+    font-weight: lighter;
+    margin-top: 20px;
+} 
+.ask {
+    font-size: 40px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.peo {
+    font-size: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.peo1 {
+    display: flex;
+    font-size: 17px;
+    justify-content: center;
+    align-items: center;
+}
+.dedadivi {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    border-radius: 5px;
+}
+.shv1 {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+    height: 450px;
+}
+.get {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+.sh1p1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1px;
+}
+.shv1p2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1px;
+}
+.shv1p3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1px;
+}
+input {
+    background-color: rgb(245, 245, 239);
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 200px;
+    height: 40px;
+    margin-left: 30%;
+    border: none;
+}
+.im2{
+    display: flex;
+    flex-direction: column;
+    width: 40px;
+    margin-top: 8px;
+    margin-left: 50%;
+}
+.shv2 {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+    height: 450px;
+}
+.get2 {
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    margin-top: 2em;
+}
+.sh2p1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1px;
+}
+.sh2p2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1px;
+}
+.sh2p3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1px;
+}
+.b1 {
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 30%;
+    background-color: rgb(70, 70, 234);
+    color: white;
+    border: none;
+    justify-content: center;
+    align-items: center;
+}
+.sh2p4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-size: 10px;
+}
+.s3 {
+    display: flex;
+    flex-direction: column;
+    width: 70px;
+    margin-left: 45%;
+    margin-top: 3em;
+}
